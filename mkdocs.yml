@@ -1,0 +1,11 @@
+site_name: Empire Takeover Guide
+site_url: https://empire-takeover.github.io
+nav:
+  - Home: index.md
+  - New Player:
+      Home: new-player/index.md
+  - Dailies:
+      Home: dailies/index.md
+      Recording and Sharing Videos: dailies/recording.md
+
+theme: readthedocs
